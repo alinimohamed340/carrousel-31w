@@ -1,20 +1,16 @@
 <?php
 
 /**
- * Extension carrousel permet d'afficher dans une boite modale
- * les images d'une galerie
+ * Extention Carrousel permet d'afficher une boite modale des images d'une gallerie
  * Package name : Carrousel
  * Version: 1.0.0
  */
-
- /*
- Plugin Name :  Carrousel
+/*
+ Plugin name: Carrousel
  Author: Alini Mohamed
- Plugin URI: https:github.com/eddytuto/carrousel
- Description:   permet d'afficher dans une boite modale
- les images d'une galerie avec un systeme de navigation
+ Plugin URI: 
+ Description: Extention Carrousel permet d'afficher une boite modale des images d'une gallerie.
  */
-
 
  function carrousel_enqueue(){
 
