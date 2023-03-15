@@ -8,7 +8,7 @@
 /*
  Plugin name: Carrousel
  Author: Alini Mohamed
- Plugin URI: 
+ Plugin URI: https://github.com/alinimohamed340
  Description: Extention Carrousel permet d'afficher une boite modale des images d'une gallerie.
  */
 
